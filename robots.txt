@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /wp-login.php
+Sitemap: https://pengentauya.github.io/Situs-Slot-Online-Indonesia-Terpercaya-Mudah-Menang-2025/sitemap.xml
